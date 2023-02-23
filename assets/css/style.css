@@ -1,3 +1,9 @@
+/**
+* Template Name: Kelly - v4.10.0
+* Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
 
 /*--------------------------------------------------------------
 # General
@@ -24,7 +30,6 @@ h4,
 h5,
 h6 {
   font-family: "Raleway", sans-serif;
-  color: white
 }
 
 #main {
@@ -426,7 +431,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://scontent.fgdl1-3.fna.fbcdn.net/v/t39.30808-6/326087369_1536642620165947_7044338450404314358_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=MneFByefbhIAX8bmZdy&_nc_ht=scontent.fgdl1-3.fna&oh=00_AfBon8foeNNUqSojczRmSXyVN5_T0JtV4g1afqGuP-QEdA&oe=63FD1E47") top right;
+  background: url("../img/hero-bg.jpg") top right;
   background-size: cover;
 }
 
@@ -446,11 +451,11 @@ h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #222222;
+  color: #00ff08;
 }
 
 #hero h2 {
-  color: #6f6f6f;
+  color: #ffffff;
   margin: 10px 0 0 0;
   font-size: 22px;
 }
